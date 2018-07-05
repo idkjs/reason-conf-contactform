@@ -27,7 +27,7 @@
   "devDependencies": {
     "bs-platform": "^2.1.0",
     "autoprefixer": "^8.2.0",
-    "gatsby": "^1.9.243",
+    "gatsby": "1.9.246",
     "gatsby-link": "^1.6.40",
     "gatsby-plugin-postcss-sass": "^1.0.19",
     "gatsby-plugin-react-helmet": "^2.0.8",
